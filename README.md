@@ -1,5 +1,5 @@
-This is a high-performance stacking ensemble. To make your GitHub README stand out, we’ll use a clean, professional structure with shields, a visual pipeline explanation, and an interactive "Quick Start" feel.
 🌿 ESG Multi-Label Classification: Rank 1 Phase 2
+This is a high-performance stacking ensemble. To make your GitHub README stand out, we’ll use a clean, professional structure with shields, a visual pipeline explanation, and an interactive "Quick Start" feel.
 
 This repository contains the winning Phase 2 solution for ESG (Environmental, Social, and Governance) text classification. The pipeline utilizes a Triple-Transformer Stacking Ensemble with a LightGBM Meta-Learner to achieve a robust F1-score.
 🚀 The Architecture
